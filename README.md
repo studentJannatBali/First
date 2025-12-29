@@ -1,3 +1,3 @@
 # First
 This is my first  Git Repository.
-Author- Jannat Bali
+Author - Jannat Bali
